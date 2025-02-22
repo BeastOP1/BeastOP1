@@ -10,6 +10,10 @@
   <a href="mailto:hassanfarooqsiddiqui@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
+  <a href="https://linktr.ee/hassanfarooqsiddiqui">
+    <img src="https://img.shields.io/badge/Linktree?style=for-the-badge&logo=linktree&logoColor=green" />
+  </a>
 </p>
 
 ---
