@@ -50,7 +50,7 @@
 
 ### 📫 Connect with Me  
 <p align="center">
-  <a href="www.linkedin.com/in/hassan-farooq-siddiqi-954b73283">
+  <a href="www.linkedin.com/in/hassan-farooq-siddiqi-954b73283/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:hassanfarooqsiddiqui@gmail.com">
